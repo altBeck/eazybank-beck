@@ -47,7 +47,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [CSSTricks](https://css-tricks.com/change-color-of-svg-on-hover/) - This helped me in learnign different ways/methods in changing the color of SVG icons. I really liked this pattern and will use it going forward.
+- [CSSTricks](https://css-tricks.com/change-color-of-svg-on-hover/) - This helped me in learning different ways/methods in changing the color of SVG icons. I really liked this pattern and will use it going forward.
 
 ## Author
 
