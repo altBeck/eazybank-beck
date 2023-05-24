@@ -1,0 +1,143 @@
+.footer--container {
+  background: var(--darkBlue);
+}
+
+.footer--main {
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.main--logo {
+  margin-bottom: 2.5rem;
+}
+
+.social--logo span {
+  margin-right: .5rem;
+}
+
+.icon {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-size: cover;
+  cursor: pointer;
+}
+
+.logo--fb {
+  background-image: url(../../images/icon-facebook.svg);
+}
+
+.logo--fb:hover {
+  background-image: url(../../images/icon-facebook-green.svg);
+}
+
+.logo--yt {
+  background-image: url(../../images/icon-youtube.svg);
+}
+
+.logo--yt:hover {
+  background-image: url(../../images/icon-youtube-green.svg);
+}
+
+.logo--tw {
+  background-image: url(../../images/icon-twitter.svg);
+}
+
+.logo--tw:hover {
+  background-image: url(../../images/icon-twitter-green.svg);
+}
+
+.logo--pt {
+  background-image: url(../../images/icon-pinterest.svg);
+}
+
+.logo--pt:hover {
+  background-image: url(../../images/icon-pinterest-green.svg);
+}
+
+.logo--ig {
+  background-image: url(../../images/icon-instagram.svg);
+}
+
+.logo--ig:hover {
+  background-image: url(../../images/icon-instagram-green.svg);
+}
+
+
+.footer--links {
+  display: flex;
+  align-items: center;
+}
+
+.footer--links ul {
+  display: block;
+}
+
+.footer--links li {
+  color: var(--white);
+}
+
+.footer--footnote {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: var(--white);
+}
+
+
+.attribution { font-size: 12px; text-align: center; background: var(--white); max-width: 100%; padding-top: 1rem; padding-bottom: 1rem;}
+
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
+@media screen and (max-width: 640px) {
+  .footer--main {
+    display: block;
+    text-align: center;
+  }
+
+  .main--logo {
+    margin-bottom: 1.5rem;
+  }
+
+  .icon {
+    width: 36px;
+    height: 36px;
+  }
+
+  .social--logo span {
+    margin-right: 1.5rem;
+  }
+
+  .footer--button {
+    display: block;
+  }
+
+  .footer--links {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .footer--links-content li {
+    margin: 0;
+    display: block;
+    padding-bottom: .5rem;
+  }
+
+  .footer--footnote {
+    padding-top: 2rem;
+  }
+
+  .footer--button {
+    display: block;
+    margin: auto;
+  }
+}

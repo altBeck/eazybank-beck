@@ -1,0 +1,76 @@
+.why--container {
+  background-color: var(--lightGrayishBlue);
+  margin-top: -9rem;
+  padding: 4rem;
+}
+
+.why--main {
+  max-width: 1280px;
+  margin: auto;
+}
+
+.why--header {
+  padding-bottom: 3rem;
+}
+
+.why--header h1 {
+  font-weight: 400;
+  color: var(--darkBlue);
+}
+
+.why--header p {
+  color: var(--grayishBlue);
+  width: 45%;
+  font-size: 16px;
+}
+
+.why--reasons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.why--reasons h2 {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.why--reasons p {
+  font-size: 16px;
+  color: var(--grayishBlue);
+  width: 80%;
+}
+
+@media screen and (max-width: 640px) {
+  .why--container {
+    margin-top: 6rem;
+    padding: 1rem;
+  }
+
+  .why--header {
+    text-align: center;
+  }
+
+  .why--header h1 {
+    font-size: 32px;
+    width: 80%;
+    margin: auto;
+    padding-top: 3rem;
+  }
+
+  .why--header p {
+    width: 100%;
+  }
+
+  .why--reasons {
+    display: block;
+    text-align: center;
+  }
+
+  .why--reasons div {
+    padding-bottom: 3rem;
+  }
+
+  .why--reasons p {
+    width: 100%;
+  }
+}
