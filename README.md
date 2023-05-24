@@ -52,6 +52,6 @@ Users should be able to:
 ## Author
 
 - Website - [Beck Kanno](https://www.bekanno.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/altBeck)
+- Frontend Mentor - [@altBeck](https://www.frontendmentor.io/profile/altBeck)
 - Twitter - [@designrgodd](https://twitter.com/designrgodd)
 
