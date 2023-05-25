@@ -19,7 +19,6 @@ const Header = () => {
         <picture>
           <source className="background" media="(min-width: 768px)"
             srcSet={deskIntro}
-            alt="background"
           />
 
           <img className="bgDesktop" src={bgIntro} alt="background"/>
