@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-easybank-landing-page-built-with-react-FuAJOuZdaN)
+- Live Site URL: [Live Site](https://eazybank-beck.vercel.app/)
 
 ## My process
 
@@ -52,6 +52,6 @@ Users should be able to:
 ## Author
 
 - Website - [Beck Kanno](https://www.bekanno.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/altBeck)
+- Frontend Mentor - [@altBeck](https://www.frontendmentor.io/profile/altBeck)
 - Twitter - [@designrgodd](https://twitter.com/designrgodd)
 
